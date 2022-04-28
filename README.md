@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hilal Yildiz
+- 👀 I’m interested in Software Test Automation
+- 🌱 I’m currently learning Cypress and TypeScript
+- 💞️ I’m looking to collaborate on challening projects.
